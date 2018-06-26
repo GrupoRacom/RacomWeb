@@ -1,0 +1,22 @@
+.rimage {
+    height:1000px;
+    background-image: url(../arte/cafe.svg);
+    background-repeat: no-repeat;
+    
+}
+.grad1 {
+    height: 50px;
+    
+}
+.rimage1 {
+    background-image: url(../arte/city1.svg), url(../arte/footer1.png);
+    background-repeat: no-repeat;
+    
+}
+.fimage {
+   
+    height: 500px;
+    background-image: url(../arte/Pie2.svg);
+    background-repeat: no-repeat;
+    
+}
